@@ -1,3 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 :root {
     --green: #5ed68a;
     --red: #1ea6c8;
@@ -68,7 +74,7 @@
     background: transparent;
     margin: 2rem 0;
     padding: 1rem 0;
-    width: 25rem;
+    width: 21rem;
     text-align: center;
     font-size: 2rem;
   }
