@@ -1,6 +1,3 @@
-*{
-  box-sizing: border-box;
-}
 
 :root {
     --green: #5ed68a;
@@ -97,6 +94,7 @@
   
   @media (min-width: 800px) {
     body {
+      box-sizing: border-box;
       width: 60vw;
     }
   }
